@@ -1,44 +1,36 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[][] graph = new int[numCourses][numCourses];
-
-        for (int[] dir : prerequisites) {
-            graph[dir[0]][dir[1]] = 1;
+        List<List<Integer>> adj = new ArrayList<>(numCourses);
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
         } // for
 
-        return sort(graph);
+        for (int[] prereq : prerequisites) {
+            adj.get(prereq[1]).add(prereq[0]);
+        } // for
+
+        boolean[] visited = new boolean[numCourses];
+        boolean[] stack = new boolean[numCourses];
+
+        for (int i = 0; i < numCourses; i++) {
+            if (dfs(i, adj, visited, stack)) return false;
+        } // for
+
+        return true;
     } // canFinish
 
-    public boolean sort(int[][] graph) {
-        int n = graph.length;
-        int[] inDegree = new int[n];
-        int[] res = new int[n];
+    private boolean dfs(int node, List<List<Integer>> adj, boolean[] visited, boolean[] stack) {
+        if (stack[node]) return true;
+        if (visited[node]) return false;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (graph[i][j] == 1) inDegree[j]++;
-            } // for
+        visited[node] = true;
+        stack[node] = true;
+
+        for (int neighbor : adj.get(node)) {
+            if (dfs(neighbor, adj, visited, stack)) return true;
         } // for
 
-        Queue<Integer> q = new LinkedList<>();
-        for (int i = 0; i < n; i++) {
-            if (inDegree[i] == 0) q.add(i);
-        } // for
-
-        int idx = 0;
-        while (!q.isEmpty()) {
-            int u = q.poll();
-            res[idx++] = u;
-
-            for (int v = 0; v < n; v++) {
-                if (graph[u][v] == 1) {
-                    inDegree[v]--;
-
-                    if (inDegree[v] == 0) q.add(v);
-                } // if
-            } // for
-        } // while
-
-        return (idx == n);
-    } // sort
+        stack[node] = false;
+        return false;
+    } // dfs
 } // Solution
