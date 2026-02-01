@@ -15,17 +15,12 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        return dfs(root, subRoot);
+        if (root == null) return false;
+
+        if (checkSameTree(root, subRoot)) return true;
+
+        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     } // isSubtree
-
-    private boolean dfs(TreeNode curr, TreeNode subRoot) {
-        if (curr == null) return false;
-
-        boolean lbool = dfs(curr.left, subRoot);
-        boolean rbool = dfs(curr.right, subRoot);
-
-        return checkSameTree(curr, subRoot) || lbool || rbool;
-    } // dfs
 
     private boolean checkSameTree(TreeNode p, TreeNode q) {
         if (p == null && q == null) return true;
