@@ -14,7 +14,6 @@ class Solution {
             List<String> wcs = getWildcards(curr.getKey());
 
             for (String wc : wcs) {
-                System.out.println(wc);
                 List<String> valids = data.get(wc);
                 if (valids == null) continue;
                 for (String v : valids) {
@@ -40,7 +39,6 @@ class Solution {
             List<String> wcs = getWildcards(word);
             for (String ab : wcs) {
                 if (!data.containsKey(ab)) data.put(ab, new ArrayList<>());
-                System.out.println(ab);
                 data.get(ab).add(word);
             } // for
         } // for
