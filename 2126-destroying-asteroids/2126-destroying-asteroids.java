@@ -1,18 +1,15 @@
 class Solution {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
         Arrays.sort(asteroids);
-        Stack<Integer> holding = new Stack<>();
 
         for (int i = 0; i < asteroids.length; i++) {
-            while (!holding.isEmpty() && holding.peek() <= mass) {
-                mass = add(mass, holding.pop());
-            } // if
+            if (mass < asteroids[i]) return false;
 
-            if (asteroids[i] > mass) holding.push(asteroids[i]);
-            else mass = add(mass, asteroids[i]);
+            if (mass + asteroids[i] > 100000) return true;
+            mass += asteroids[i];
         } // for
 
-        return holding.isEmpty();
+        return true;
     } // asteroidDestroyed
 
     private int add(int a, int b) {
