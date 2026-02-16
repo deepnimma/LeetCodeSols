@@ -19,17 +19,12 @@ class RideSharingSystem {
     } // addDriver
     
     public int[] matchDriverWithRider() {
-        int[] ans = new int[]{-1, -1};
-        if (riders.isEmpty() || drivers.isEmpty()) return ans;
-
         while (!riders.isEmpty() && cancellations.get(riders.peek())) {
             riders.poll();
         } // while
 
-        if (riders.isEmpty()) return ans;
-        ans[1] = riders.poll();
-        ans[0] = drivers.poll();
-        return ans;
+        if (riders.isEmpty() || drivers.isEmpty()) return new int[]{-1, -1};
+        return new int[]{drivers.poll(), riders.poll()};
     } // matchDriverWithRider
     
     public void cancelRider(int riderId) {
