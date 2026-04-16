@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/deepnimma/LeetCodeSols/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/deepnimma/LeetCodeSols/tree/main/0072-edit-distance/) | Medium |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
