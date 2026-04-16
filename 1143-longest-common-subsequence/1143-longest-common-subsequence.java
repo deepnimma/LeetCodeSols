@@ -4,14 +4,14 @@ class Solution {
         int n = text2.length();
         int[][] dp = new int[m + 1][n + 1];
 
-        for (int row = m - 1; row >= 0; row--) {
-            for (int col = n - 1; col >= 0; col--) {
-                if (text1.charAt(row) == text2.charAt(col)) {
-                    dp[row][col] = dp[row + 1][col + 1] + 1;
+        for (int row = 1; row <= m; row++) {
+            for (int col = 1; col <= n; col++) {
+                if (text1.charAt(row - 1) == text2.charAt(col - 1)) {
+                    dp[row][col] = dp[row - 1][col - 1] + 1;
                 } else {
                     dp[row][col] = Math.max(
-                        dp[row + 1][col],
-                        dp[row][col + 1]
+                        dp[row - 1][col],
+                        dp[row][col - 1]
                     );
                 } // if-else
             } // for
@@ -19,7 +19,7 @@ class Solution {
 
         // printArr(dp);
 
-        return dp[0][0];
+        return dp[m][n];
     } // longestCommonSubsequence
 
     private void printArr(int[][] dp) {
