@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/deepnimma/LeetCodeSols/tree/main/0072-edit-distance/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
