@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/deepnimma/LeetCodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
+| [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -65,4 +67,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0027-remove-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
