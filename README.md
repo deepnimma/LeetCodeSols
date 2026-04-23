@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,10 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +93,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
