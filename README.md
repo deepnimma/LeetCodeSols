@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
+| [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
@@ -135,9 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
