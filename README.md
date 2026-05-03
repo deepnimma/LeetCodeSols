@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/deepnimma/LeetCodeSols/tree/main/0035-search-insert-position/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
