@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/deepnimma/LeetCodeSols/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/deepnimma/LeetCodeSols/tree/main/0072-edit-distance/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
