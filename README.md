@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/deepnimma/LeetCodeSols/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/deepnimma/LeetCodeSols/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -176,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
