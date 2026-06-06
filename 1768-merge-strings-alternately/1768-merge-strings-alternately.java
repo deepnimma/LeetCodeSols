@@ -5,8 +5,8 @@ class Solution {
         int n = word1.length(), m = word2.length();
 
         while (i < n && j < m) {
-            if (ans.length() % 2 == 0) ans += word1.charAt(i++);
-            else ans += word2.charAt(j++);
+            ans += word1.charAt(i++);
+            ans += word2.charAt(j++);
         } // while
 
         while (i < n) {
