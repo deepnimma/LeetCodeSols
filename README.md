@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
+| [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
