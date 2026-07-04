@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/deepnimma/LeetCodeSols/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/deepnimma/LeetCodeSols/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
