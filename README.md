@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
@@ -196,4 +197,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
