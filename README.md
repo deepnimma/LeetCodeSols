@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/deepnimma/LeetCodeSols/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/deepnimma/LeetCodeSols/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/deepnimma/LeetCodeSols/tree/main/0200-number-of-islands/) | Medium |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/deepnimma/LeetCodeSols/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -211,8 +213,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/deepnimma/LeetCodeSols/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/deepnimma/LeetCodeSols/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
