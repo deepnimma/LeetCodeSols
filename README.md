@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Matrix
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/deepnimma/LeetCodeSols/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/deepnimma/LeetCodeSols/tree/main/0072-edit-distance/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
