@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/deepnimma/LeetCodeSols/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2964-number-of-divisible-triplet-sums](https://github.com/deepnimma/LeetCodeSols/tree/main/2964-number-of-divisible-triplet-sums/) | Medium |
 ## Dynamic Programming
