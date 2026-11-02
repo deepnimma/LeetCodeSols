@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/deepnimma/LeetCodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepnimma/LeetCodeSols/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/deepnimma/LeetCodeSols/tree/main/0200-number-of-islands/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/deepnimma/LeetCodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/deepnimma/LeetCodeSols/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/deepnimma/LeetCodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepnimma/LeetCodeSols/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepnimma/LeetCodeSols/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
