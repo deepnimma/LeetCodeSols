@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/deepnimma/LeetCodeSols/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/deepnimma/LeetCodeSols/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/deepnimma/LeetCodeSols/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/deepnimma/LeetCodeSols/tree/main/0072-edit-distance/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/deepnimma/LeetCodeSols/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
@@ -253,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/deepnimma/LeetCodeSols/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
