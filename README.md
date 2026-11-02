@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/deepnimma/LeetCodeSols/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/deepnimma/LeetCodeSols/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
 | [2964-number-of-divisible-triplet-sums](https://github.com/deepnimma/LeetCodeSols/tree/main/2964-number-of-divisible-triplet-sums/) | Medium |
 ## Design
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Divide and Conquer
@@ -274,4 +277,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepnimma/LeetCodeSols/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/deepnimma/LeetCodeSols/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
