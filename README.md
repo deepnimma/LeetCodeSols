@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/deepnimma/LeetCodeSols/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/deepnimma/LeetCodeSols/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/deepnimma/LeetCodeSols/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -143,12 +146,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/deepnimma/LeetCodeSols/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/deepnimma/LeetCodeSols/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/deepnimma/LeetCodeSols/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -171,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -242,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deepnimma/LeetCodeSols/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
