@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/deepnimma/LeetCodeSols/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/deepnimma/LeetCodeSols/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0271-encode-and-decode-strings](https://github.com/deepnimma/LeetCodeSols/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/deepnimma/LeetCodeSols/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/deepnimma/LeetCodeSols/tree/main/0072-edit-distance/) | Medium |
 | [0242-valid-anagram](https://github.com/deepnimma/LeetCodeSols/tree/main/0242-valid-anagram/) | Easy |
+| [0271-encode-and-decode-strings](https://github.com/deepnimma/LeetCodeSols/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0271-encode-and-decode-strings](https://github.com/deepnimma/LeetCodeSols/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
 ## Randomized
