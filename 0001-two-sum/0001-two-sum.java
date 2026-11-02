@@ -3,12 +3,11 @@ class Solution {
         Map<Integer, Integer> seen = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
-            seen.put(nums[i], i);
-        } // for
+            int diff = target - nums[i];
+            int found = seen.getOrDefault(diff, -1);
 
-        for (int i = 0; i < nums.length; i++) {
-            int found = seen.getOrDefault(target - nums[i], -1);
             if (found != -1 && found != i) return new int[]{found, i};
+            else seen.put(nums[i], i);
         } // for
 
         return new int[]{-1, -1};
