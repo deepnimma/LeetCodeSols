@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/deepnimma/LeetCodeSols/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/deepnimma/LeetCodeSols/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/deepnimma/LeetCodeSols/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
