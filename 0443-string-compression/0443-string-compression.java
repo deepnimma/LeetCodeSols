@@ -15,21 +15,18 @@ class Solution {
             chars[writer++] = chars[i];
 
             if (currCnt > 1) {
-                int rev = j - 1;
-                Stack<Integer> digs = new Stack<>();
+                String digs = new String();
 
-                while (currCnt > 0 && rev > i) {
-                    int dig = currCnt % 10;
+                while (currCnt > 0) {
+                    digs += Integer.toString(currCnt % 10);
                     currCnt /= 10;
-                    digs.push(dig);
                 } // while
 
-                cnt += digs.size() + 1;
+                cnt += digs.length() + 1;
 
-                while (!digs.isEmpty()) {
-                    chars[writer] = (char) (digs.pop() + '0');
-                    writer++;
-                } // while
+                for (int k = digs.length() - 1; k >= 0; k--) {
+                    chars[writer++] = digs.charAt(k);
+                } // for
             } else cnt++;
 
             i = j;
