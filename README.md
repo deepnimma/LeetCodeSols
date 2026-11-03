@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0518-coin-change-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0518-coin-change-ii/) | Medium |
+| [0539-minimum-time-difference](https://github.com/deepnimma/LeetCodeSols/tree/main/0539-minimum-time-difference/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0539-minimum-time-difference](https://github.com/deepnimma/LeetCodeSols/tree/main/0539-minimum-time-difference/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/deepnimma/LeetCodeSols/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/deepnimma/LeetCodeSols/tree/main/0443-string-compression/) | Medium |
+| [0539-minimum-time-difference](https://github.com/deepnimma/LeetCodeSols/tree/main/0539-minimum-time-difference/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/deepnimma/LeetCodeSols/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/deepnimma/LeetCodeSols/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/deepnimma/LeetCodeSols/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0539-minimum-time-difference](https://github.com/deepnimma/LeetCodeSols/tree/main/0539-minimum-time-difference/) | Medium |
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
