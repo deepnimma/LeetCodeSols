@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/deepnimma/LeetCodeSols/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/deepnimma/LeetCodeSols/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/deepnimma/LeetCodeSols/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0244-shortest-word-distance-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0244-shortest-word-distance-ii/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/deepnimma/LeetCodeSols/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/deepnimma/LeetCodeSols/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/deepnimma/LeetCodeSols/tree/main/0242-valid-anagram/) | Easy |
 | [0244-shortest-word-distance-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0244-shortest-word-distance-ii/) | Medium |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepnimma/LeetCodeSols/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/deepnimma/LeetCodeSols/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/deepnimma/LeetCodeSols/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
