@@ -15,18 +15,24 @@ class Solution {
             chars[writer++] = chars[i];
 
             if (currCnt > 1) {
-                String digs = new String();
+                int start = writer;
 
                 while (currCnt > 0) {
-                    digs += Integer.toString(currCnt % 10);
+                    chars[writer++] = (char) ((currCnt % 10) + '0');
                     currCnt /= 10;
                 } // while
 
-                cnt += digs.length() + 1;
+                cnt += (writer - start) + 1;
+                int l = start;
+                int r = writer - 1;
 
-                for (int k = digs.length() - 1; k >= 0; k--) {
-                    chars[writer++] = digs.charAt(k);
-                } // for
+                while (l < r) {
+                    char tmp = chars[l];
+                    chars[l] = chars[r];
+                    chars[r] = tmp;
+                    l++;
+                    r--;
+                } // while
             } else cnt++;
 
             i = j;
