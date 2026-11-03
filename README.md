@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/deepnimma/LeetCodeSols/tree/main/0539-minimum-time-difference/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/deepnimma/LeetCodeSols/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/deepnimma/LeetCodeSols/tree/main/0739-daily-temperatures/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/deepnimma/LeetCodeSols/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/deepnimma/LeetCodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepnimma/LeetCodeSols/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/deepnimma/LeetCodeSols/tree/main/0704-binary-search/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
