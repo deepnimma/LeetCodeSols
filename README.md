@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0244-shortest-word-distance-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0244-shortest-word-distance-ii/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/deepnimma/LeetCodeSols/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepnimma/LeetCodeSols/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/deepnimma/LeetCodeSols/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/deepnimma/LeetCodeSols/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/deepnimma/LeetCodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/deepnimma/LeetCodeSols/tree/main/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0695-max-area-of-island](https://github.com/deepnimma/LeetCodeSols/tree/main/0695-max-area-of-island/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Math
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0244-shortest-word-distance-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0244-shortest-word-distance-ii/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/deepnimma/LeetCodeSols/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepnimma/LeetCodeSols/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0705-design-hashset](https://github.com/deepnimma/LeetCodeSols/tree/main/0705-design-hashset/) | Easy |
 ## Randomized
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepnimma/LeetCodeSols/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/deepnimma/LeetCodeSols/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepnimma/LeetCodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
