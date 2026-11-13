@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/deepnimma/LeetCodeSols/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/deepnimma/LeetCodeSols/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/deepnimma/LeetCodeSols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/deepnimma/LeetCodeSols/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/deepnimma/LeetCodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/deepnimma/LeetCodeSols/tree/main/0036-valid-sudoku/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepnimma/LeetCodeSols/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/deepnimma/LeetCodeSols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/deepnimma/LeetCodeSols/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/deepnimma/LeetCodeSols/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/deepnimma/LeetCodeSols/tree/main/0058-length-of-last-word/) | Easy |
@@ -323,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/deepnimma/LeetCodeSols/tree/main/0229-majority-element-ii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/deepnimma/LeetCodeSols/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
