@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/deepnimma/LeetCodeSols/tree/main/0912-sort-an-array/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/deepnimma/LeetCodeSols/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/deepnimma/LeetCodeSols/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1929-concatenation-of-array](https://github.com/deepnimma/LeetCodeSols/tree/main/1929-concatenation-of-array/) | Easy |
 | [2964-number-of-divisible-triplet-sums](https://github.com/deepnimma/LeetCodeSols/tree/main/2964-number-of-divisible-triplet-sums/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/deepnimma/LeetCodeSols/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/deepnimma/LeetCodeSols/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/deepnimma/LeetCodeSols/tree/main/0735-asteroid-collision/) | Medium |
+| [1929-concatenation-of-array](https://github.com/deepnimma/LeetCodeSols/tree/main/1929-concatenation-of-array/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
